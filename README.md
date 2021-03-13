@@ -14,6 +14,6 @@ Unfortunately due to schools closing down, I was not able to get any picture of 
 
 <p align="left">
   <a ![SCHEMATIC](rough_schematic.png)>
-       <img src="images/rough_schematic.png" alt="rough_schematic" width="900" height="450">
+       <img src="images/rough_schematic.png" alt="rough_schematic" width="900" height="400">
   </a>
 </p>
