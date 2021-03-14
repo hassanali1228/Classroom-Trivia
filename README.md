@@ -1,6 +1,6 @@
-# Buzzer-Beater-System
+# Classroom-Trivia
 
-A simple classroom buzzer beater system.
+Weekly classroom trivia digitized.
 
 ## About The Project
 
