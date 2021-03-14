@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361324682659",
+    "project_id": "classroom-trivia",
+    "storage_bucket": "classroom-trivia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361324682659:android:f2d3bfc1534947e70ace16",
+        "android_client_info": {
+          "package_name": "com.hsncoder.classroom_trivia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361324682659-5tliabqq9njh9olrbnj4udt0mo7hntl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsaR4bgVLY8gzNQZTgFrwpFgri0-KXNFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361324682659-5tliabqq9njh9olrbnj4udt0mo7hntl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
