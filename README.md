@@ -13,7 +13,7 @@ The project has two parts to it:
 
 The app serves the purpose of keeping track of trivia stats from teams across the school, where they can update their name, color, points, and tagline.
 
-Future goals:
+Future implementation:
 1. Arduino uploads data, about who press the buzzer first, to firebase
 2. App can fetch winning stats and show probability of who's most likely to press buzzer next
 
