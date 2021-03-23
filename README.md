@@ -6,8 +6,8 @@ Weekly classroom trivia digitized.
 
 The project has two parts to it:
 
-1. An app made in firebase, flutter, & dart
-2. A physical buzzer beater system made with an Arduino
+1. An **app** made in firebase, flutter, & dart
+2. A **physical buzzer** system made with an Arduino
 
 ## Flutter App
 
